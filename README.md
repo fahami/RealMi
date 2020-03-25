@@ -16,5 +16,5 @@ Sebuah sistem kontrol akuarium yang dibuat agar pemilik akuarium dapat melihat k
 3. MariaDB 10.1.43
 4. Apache 2.4.39
 
-### Demo : http://www.karyasa.my.id/realmi/
+### Demo : https://www.karyasa.my.id/realmi/
 Hubungi fahmi.ali@hotmail.com untuk mendapatkan username dan password demo
